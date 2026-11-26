@@ -4,8 +4,8 @@
 | --- | --- | --- |
 | Sebagian besar `gambar/*.svg` | Fluent Emoji (Flat), Microsoft – github.com/microsoft/fluentui-emoji | MIT |
 | `bantal`, `lemari`, `meja`, `ketupat`, `topi_pesta`, `rumput`, `bambu`, `becak`, `akar` | Digambar sendiri untuk aplikasi ini | – |
-| `pare`, `durian`, `salak`, `pepaya`, `manggis`, `buah_naga`, `kurma`, `capung` | Digambar sendiri untuk aplikasi ini | – |
-| `delman`, `bertelur`, `melahirkan`, `nelayan` | Digambar sendiri, memakai potongan Fluent Emoji | MIT |
+| `pare`, `durian`, `salak`, `pepaya`, `manggis`, `buah_naga`, `kurma`, `capung`, `jambu`, `delima`, `air_minum` | Digambar sendiri untuk aplikasi ini | – |
+| `delman`, `bertelur`, `melahirkan`, `nelayan`, `apotek`, `wartawan`, `arsitek` | Digambar sendiri, memakai potongan Fluent Emoji | MIT |
 | Botol air, jari tangan, penggaris (di dalam kode) | Digambar sendiri untuk aplikasi ini | – |
 | `huruf/andika-*.woff2` | Andika, SIL International | SIL OFL 1.1 |
 | `huruf/grandstander-800.woff2` | Grandstander, Tyler Finck | SIL OFL 1.1 |
