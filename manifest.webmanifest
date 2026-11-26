@@ -1,0 +1,16 @@
+{
+  "name": "Ayo Belajar Bareng",
+  "short_name": "Ayo Belajar",
+  "description": "Game belajar Matematika dan Sains untuk anak TK",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "background_color": "#8FD6F1",
+  "theme_color": "#8FD6F1",
+  "icons": [
+    { "src": "ikon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "ikon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
